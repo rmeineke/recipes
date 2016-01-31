@@ -1,0 +1,22 @@
+body {
+    font-size: 12px;
+}
+
+h1 {
+    font-size: 145%;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 135%;
+    
+}
+
+p, li {
+    font-size: 130%;
+}
+
+#footer {
+    display: none;
+}

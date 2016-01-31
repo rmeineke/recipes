@@ -1,0 +1,40 @@
+body {
+    font-family: helvetica;
+    font-size: 100%;
+}
+
+h1 {
+    color: #0f0;
+    font-size: 125%;
+    margin: .5em 0 0 0;
+}
+
+li {
+    margin-left: 2em;
+}
+
+.center {
+    text-align: center;
+}
+
+.oneColumn {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.leftColumn {
+    float: left;
+    width: 48%;
+    /*background-color: #eee;*/
+}
+
+.rightColumn {
+    float: right;
+    width: 48%;
+    /*background-color: #e00;*/
+}
+
+.clear {
+    padding-top: .5em;
+    clear: both;
+}

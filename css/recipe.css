@@ -1,0 +1,46 @@
+body {
+    font-size: 100%;
+    background: #fafafa url(../images/bg2.png) repeat-x;;
+    padding: 2em;
+}
+
+h1 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: .5em;
+    font-family: sans-serif;
+}
+
+h2 {
+    font-size: 1.3em;
+    margin-bottom: .5em;  
+    font-family: sans-serif;  
+}
+
+h3 {
+    font-size: 1.1em;
+    margin-bottom: .5em;  
+    font-family: sans-serif;  
+}
+
+ul {
+    margin-bottom: 1em;
+}
+
+li {
+    margin-left: 2em;
+    line-height: 1.2em;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+p {
+    margin: 0 2em 1em 2em;
+    line-height: 1.2em;
+}
+
+.red {
+    color: #f00;
+}
