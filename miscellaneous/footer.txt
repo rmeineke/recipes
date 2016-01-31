@@ -1,0 +1,25 @@
+
+
+
+
+<div id="footer">
+
+<hr />
+
+
+<ul>
+<li>
+Back to <a href="./index.html"></a>
+</li>
+<li>
+Back to <a href="../index.html">Main Index</a>
+</li>
+</ul>
+
+
+</div><!-- footer div -->
+
+
+
+</body>
+</html>
