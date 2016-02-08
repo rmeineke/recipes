@@ -15,7 +15,7 @@
 
 <body>
 <div class="oneColumn">
-<h1 class="center">Recipe File &nbsp; [December 31, 2015]</h1>
+<h1 class="center"><?php $file = './updated.txt'; $str = 'Recipe File [' . date("F d, Y", filemtime($file)) . ']'; echo $str;?></h1>
 <ul class="mainPage">
 <li><a href="./appetize/index.html">Appetizers, Salsa, &amp; Dips</a></li>
 <li><a href="./bread/index.html">Breads</a></li>
