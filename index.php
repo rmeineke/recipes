@@ -4,7 +4,12 @@
 <meta charset="utf-8" />
 <link rel="stylesheet" href="css/reset.css"/>
 <link rel="stylesheet" href="css/indexes.css"/>
+<!--
 <title><?php echo "ROBERT";?>Recipe File  &nbsp;  [December 31, 2015]</title>
+-->
+<title><?php $file = updated.txt; $str = 'Recipe File [' . date("F d, Y", filemtime($file)) . ']'; echo $str;?></title>
+
+
 </head>
 
 
