@@ -1,7 +1,7 @@
 body {
     background: #ecf2fa url(../images/back.jpg) repeat-x;
     font-size: small;
-    font-family: helvetica;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 h1 {
