@@ -11,10 +11,16 @@ use Carp;
 use File::Find;
 
 my ($name, $pass, $uid, $gid, $quota, $comment, $gcos, $dir, $shell, $expire) = getpwnam('robertm'); 
+print "======================================\n";
+print "======================================\n";
+print "======================================\n";
 print "FIX_RECIPES.PL\n";
-print "name == ", $name, "\n";
-print "uid  == ", $uid, "\n";
-print "gid  == ", $gid, "\n";
+print "==== name == ", $name, "\n";
+print "==== uid  == ", $uid, "\n";
+print "==== gid  == ", $gid, "\n";
+print "======================================\n";
+print "======================================\n";
+print "======================================\n";
 
 
 my $look_in = '/home/robertm/recipes';
